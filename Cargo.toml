@@ -1,0 +1,12 @@
+[package]
+name = "aes_brute_force"
+version = "0.1.0"
+authors = ["lehrbaum<maximilian@lehrbaum.dev>"]
+edition = "2018"
+
+[dependencies]
+rust-crypto="0.2.36"
+rayon="1.0.3"
+hex="0.3.2"
+itertools="0.8.0"
+
