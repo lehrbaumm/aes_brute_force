@@ -7,6 +7,6 @@ edition = "2018"
 [dependencies]
 rust-crypto="0.2.36"
 rayon="1.0.3"
-hex="0.3.2"
-itertools="0.8.0"
+hex="0.4.3"
+itertools="0.11.0"
 
